@@ -9,7 +9,8 @@ A dual-axis tilt monitoring and acceleration waveform demonstration based on STM
 ---
 
 ## Screenshots / 实物运行截图
-<img width="2504" height="1235" alt="image" src="https://github.com/user-attachments/assets/8d3f9e5b-659b-4269-91ff-6ffbefd59904" />
+<img width="2533" height="1234" alt="image" src="https://github.com/user-attachments/assets/02d352ee-b104-4be6-9443-bd740b7606dc" />
+
 
 
 ### PC Monitor / PC 双语上位机
