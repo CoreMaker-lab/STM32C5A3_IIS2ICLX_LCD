@@ -16,7 +16,16 @@ A dual-axis tilt monitoring and acceleration waveform demonstration based on STM
 
 <img width="1476" height="1114" alt="image" src="https://github.com/user-attachments/assets/63110fac-7765-4c65-8c72-de8b0b69dbf8" />
 
+------------------------------------------------------------------------
+## 项目维护者与联系方式 \| Project Maintainer & Contact
 
+- **Name / 姓名**: Billy
+- **交流群 / Discussion Group**: 925643491
+- **Email / 邮箱**: <a845656974@outlook.com>
+- **Phone / 电话**: +86 15622736378
+
+
+------------------------------------------------------------------------
 ### MCU Digital Level / MCU 数字倾角显示
 ![Digital level](docs/images/device_level.png)
 
